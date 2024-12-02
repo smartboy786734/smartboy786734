@@ -1,12 +1,2 @@
-- 👋 Hi, I’m @smartboy786734
-- 👀 I’m interested in  AI cloud ENGINEER 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-smartboy786734/smartboy786734 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# dynamic-resume-builder
+A **Dynamic Resume Builder** using HTML, CSS, TypeScript, and JavaScript. It lets users create a professional resume via an interactive form. Users can customize their resume, see instant updates, and download it as a PDF. Built with a responsive design and seamless PDF export using `html2pdf.js`. Perfect for quick and easy resume creation!
